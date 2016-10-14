@@ -17,7 +17,7 @@ namespace Jalkahoitola_test2.Models
             return userIdentity;
         }
     }
-
+    //testikommentti
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
